@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\codin\jodeExcercise2\bin\Debug\net6.0\jodeExcercise2.exe
+C:\Users\ACER\Desktop\codin\jodeExcercise2\bin\Debug\net6.0\jodeExcercise2.deps.json
+C:\Users\ACER\Desktop\codin\jodeExcercise2\bin\Debug\net6.0\jodeExcercise2.runtimeconfig.json
+C:\Users\ACER\Desktop\codin\jodeExcercise2\bin\Debug\net6.0\jodeExcercise2.dll
+C:\Users\ACER\Desktop\codin\jodeExcercise2\bin\Debug\net6.0\jodeExcercise2.pdb
+C:\Users\ACER\Desktop\codin\jodeExcercise2\obj\Debug\net6.0\jodeExcercise2.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\codin\jodeExcercise2\obj\Debug\net6.0\jodeExcercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\codin\jodeExcercise2\obj\Debug\net6.0\jodeExcercise2.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\codin\jodeExcercise2\obj\Debug\net6.0\jodeExcercise2.AssemblyInfo.cs
+C:\Users\ACER\Desktop\codin\jodeExcercise2\obj\Debug\net6.0\jodeExcercise2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\codin\jodeExcercise2\obj\Debug\net6.0\jodeExcercise2.dll
+C:\Users\ACER\Desktop\codin\jodeExcercise2\obj\Debug\net6.0\refint\jodeExcercise2.dll
+C:\Users\ACER\Desktop\codin\jodeExcercise2\obj\Debug\net6.0\jodeExcercise2.pdb
+C:\Users\ACER\Desktop\codin\jodeExcercise2\obj\Debug\net6.0\jodeExcercise2.genruntimeconfig.cache
+C:\Users\ACER\Desktop\codin\jodeExcercise2\obj\Debug\net6.0\ref\jodeExcercise2.dll
